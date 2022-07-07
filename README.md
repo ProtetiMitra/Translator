@@ -1,2 +1,2 @@
 # Translator
-click to view:https://protetimitra.github.io/assignmentsNT/
+click to view:https://protetimitra.github.io/Translator/
